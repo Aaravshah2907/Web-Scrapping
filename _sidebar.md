@@ -1,6 +1,6 @@
 - [Homepage](README.md "HTML title by default is the text in []")
 - [Concepts](Web-Scrapping-Concepts/README.md)
-  - [Dummy File](Web-Scrapping-Concepts/dummy.md)
+- [Dummy File](Web-Scrapping-Concepts/dummy.md)
 - [A Great Notebook](NOTEBOOK.md)
 - [Item of a-great-subfolder](a-great-subfolder/README.md "HTML title can be setted here")
   - click arrows to collapse items!
